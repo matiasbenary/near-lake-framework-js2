@@ -1,0 +1,12 @@
+{
+    "includeVersion": true,
+    "entryPoints": [
+      "src",
+    ],
+    "githubPages": true,
+    "validation": {
+      "notExported": false
+    },
+    "out": "docs",
+    "readme": "./README.md"
+}
